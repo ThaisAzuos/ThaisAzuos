@@ -1,4 +1,4 @@
-##    Oi eu sou a Thais Analista de sistemas, java e cobol.
+## Olá eu sou a Thaís. Sou programadora com 5 anos de experiência, em sua maioria em Cobol e atualmete programando em Java.
 
 
 <div align="center">
