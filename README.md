@@ -22,7 +22,7 @@
   <img align="center" alt="eclipse" height="40" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg">
 
 <div> 
- <a href = "mailto:thais.azuoss@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href = "mailto:thais.azuoss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tha%C3%ADs-santos-souza-b05845112/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ThaisAzuos/ThaisAzuos/blob/output/github-contribution-grid-snake.svg)
