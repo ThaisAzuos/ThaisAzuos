@@ -13,8 +13,9 @@
 
 </div>
 <div style="display: inline_block"><br>
+<i class="devicon-java-plain-wordmark"></i>
   <img align="center" alt="Hass-java" height="30" width="40" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-"><i class="devicon-java-plain-wordmark"></i>
+">
 
   <img align="center" alt="Hass-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Hass-SqlS" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
