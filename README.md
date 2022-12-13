@@ -6,12 +6,6 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ThaisAzuos&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisAzuos&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
-
-
-##
-
-
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hass-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Hass-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
@@ -26,13 +20,6 @@
   <img align="center" alt="thais-lab" height="40" width="40" src="https://www.svgrepo.com/show/373625/gitlab.svg">
   <img align="center" alt="thais-apig" height="40" width="40" src="https://www.svgrepo.com/show/331290/apigee.svg">
   <img align="center" alt="eclipse" height="40" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg">
-  
-  
-  <img align="right" alt="Java-Pic" height="120" style="border-radius:50px;" src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
-</div>
-
-##[
-](https://tenor.com/pt-BR/view/gato-digitando-cat-kitten-kitty-gif-17761219)
 
 <div> 
  <a href = "mailto:thais.azuoss@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
