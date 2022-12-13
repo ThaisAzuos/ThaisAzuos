@@ -1,4 +1,4 @@
-## Olá eu sou a Thaís. Sou programadora com 5 anos de experiência, em sua maioria em Cobol e atualmete programando em Java.
+## Olá eu sou a Thaís. Sou programadora desde 2018, com experiência em Cobol e atualmete programando em Java.
 
 
 <div align="center">
